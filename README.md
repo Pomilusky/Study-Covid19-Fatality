@@ -1,4 +1,4 @@
-## 🦠 Intriduction 🦠
+## 🦠 Introduction 🦠
 Since the appearance of Covid-19, over 1.199.029 have died of this infeccious disease, only in Europe. Covid is highly contagious, accordingly in more densly populated countries the impact should be higher. 
 
 I have decided to study some other aspects that can have an impact on covid's impact in a country, such as the number of people that smoke, which should affect its fatality (as smoking it harms de cardio-vascular system). Or the GDP of a country, sadly richer countries tend to have a higher survivavility.
