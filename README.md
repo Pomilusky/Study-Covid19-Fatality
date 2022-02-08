@@ -16,9 +16,9 @@ I am not going to share the data that I am using in this repository, however I a
 You can find the code to generate the database in the file [DatatoSql.py](https://github.com/Pomilusky/Study-Covid19-Fatality/blob/Pomilusky/Code/DatatoSql.py). I basically created an SQL database with 4 tables, one for each of the tables I obtained as explained in the previous section. I did so using SQLalchemy. I thought it might be interesting to create some relations between the data, but I realised that the primary keys were common in all 4 tables (they were all data from the same countries), so maybe for a further study instead of creating relations between tables we should just merge them into one table. 
 
 ## Sources 📚:
-# [Pandas](https://pandas.pydata.org/)
-# [Requests](https://docs.python-requests.org/en/latest/)
-# [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
-# [Selenium](https://ghostinspector.com/landing/selenium-testing/?gclid=CjwKCAiAo4OQBhBBEiwA5KWu_3rFVm5FcLLuXY7d5AiydLvvfGUR7xUsx0rW1bOBp7MlcijlINm3ZRoCnwgQAvD_BwE)
-# [SQLalchemy](https://www.sqlalchemy.org/)
-# [ReGex](https://docs.python.org/3/library/re.html)
+#### [Pandas](https://pandas.pydata.org/)
+#### [Requests](https://docs.python-requests.org/en/latest/)
+#### [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+#### [Selenium](https://ghostinspector.com/landing/selenium-testing/?gclid=CjwKCAiAo4OQBhBBEiwA5KWu_3rFVm5FcLLuXY7d5AiydLvvfGUR7xUsx0rW1bOBp7MlcijlINm3ZRoCnwgQAvD_BwE)
+##### [SQLalchemy](https://www.sqlalchemy.org/)
+#### [ReGex](https://docs.python.org/3/library/re.html)
